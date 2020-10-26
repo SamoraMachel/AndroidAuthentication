@@ -1,4 +1,4 @@
-package com.example.registrationloginexercise;
+package com.example.authentication2;
 
 import org.junit.Test;
 
